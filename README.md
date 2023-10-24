@@ -1,6 +1,6 @@
 Mihawk - An Unreal Engine 4.26 First-Person Shooter
 
-Download Game : [https://drive.google.com/drive/folders/1mq2SDEmvHnPg-i35ccJfISSrl8JSiKat](https://drive.google.com/drive/folders/1DZNBQd4AKYaceT9EoHxILn_1zK6XC_5M?usp=drive_link)
+Download Game : 
 Game Controls:
 
     WASD: Move around
